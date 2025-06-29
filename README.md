@@ -1,4 +1,4 @@
-###🌤️ Weather App ###
+🌤️ Weather App
 A responsive web application that fetches and displays real-time weather information for any city using the OpenWeatherMap API.
 
 🔧 Key Features:
